@@ -17,10 +17,8 @@ Bootstrap;
 -Using Active Storage to save CVs
 
 To run:    
-         go to the app folder, then enter the command: 
+         In the terminal go to the app folder, then enter the command: 
          
          $ rails s
 
-         Then go to: 
-         
-         Localhost:3000
+         Then go to:     Localhost:3000
