@@ -12,8 +12,7 @@ Used by companies and professionals:
 - Curriculum submission system;
 - Candidate control system;
 -Standard REST:
--Using
-Bootstrap;
+-Using Bootstrap;
 -Using Active Storage to save CVs
 
 To run:    
