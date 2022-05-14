@@ -1,24 +1,22 @@
-# README
+# Application to fill job vacancies created with Ruby on Rails #
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ruby version: 3.1.2
+Rails version: 6.1.0
 
-Things you may want to cover:
+Application capable of filling job vacancies.
 
-* Ruby version
+Used by companies and professionals:
+-Authentication system (Devise);
+-Customized login and registration view;
+-Registration and editing system for an advertisement;
+- Curriculum submission system;
+- Candidate control system;
+-Standard REST:
+-Using
+Bootstrap;
+-Using Active Storage to save CVs
 
-* System dependencies
+To run:    
+         go to the app folder, then enter the command: $ rails s
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+         Then go to: Localhost:3000
